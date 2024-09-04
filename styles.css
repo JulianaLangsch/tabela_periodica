@@ -83,9 +83,17 @@ body {
   }
   
   .metais__transicao {
-    background-color: #F3E8FD;
+    background-color: #d1aaf5;
   }
   
+  .lantanideos {
+    background-color: lightblue;
+  }
   
+  .actinideos {
+    background-color: sandybrown;
+  }
   
-  
+  .desconhecido {
+    background-color: darkgray;
+  }
